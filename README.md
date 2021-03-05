@@ -5,3 +5,9 @@
 Usage: emojishell.py {IP address} {Port} {Output Filename}
 </code></pre>
 
+
+
+
+
+
+That's cool and all, but have you met <a href="https://github.com/im4x5yn74x/emojichan">Emojichan ~(=^‥^)_旦~</a>?
